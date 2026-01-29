@@ -1,0 +1,90 @@
+{
+	"name": "HEGRÁFICA",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "5falso1",
+					"sid": 733368866772342
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 152385327682744,
+					"parameters": {
+						"layout": "FALSO5"
+					}
+				}
+			],
+			"sid": 373093986362046
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "5falso2",
+					"sid": 500115396305382
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 573643042986837,
+					"parameters": {
+						"layout": "FALSO5"
+					}
+				}
+			],
+			"sid": 723922252133366
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "5falso3",
+					"sid": 657241064977122
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 340506480334000,
+					"parameters": {
+						"layout": "FALSO5"
+					}
+				}
+			],
+			"sid": 186137130157958
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "5verdad",
+					"sid": 903312260638309
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 456529883078545,
+					"parameters": {
+						"layout": "ESCRITORIO6"
+					}
+				}
+			],
+			"sid": 487311768285254
+		}
+	],
+	"sid": 714280807231693
+}

@@ -1,0 +1,90 @@
+{
+	"name": "HEDISIPADOR",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "6falso1",
+					"sid": 876435050290398
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 603267494015999,
+					"parameters": {
+						"layout": "FALSO6"
+					}
+				}
+			],
+			"sid": 355249096554961
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "6falso2",
+					"sid": 700233468620452
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 723083773686230,
+					"parameters": {
+						"layout": "FALSO6"
+					}
+				}
+			],
+			"sid": 577233329194966
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "6falso3",
+					"sid": 598994149805266
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 913698546326419,
+					"parameters": {
+						"layout": "FALSO6"
+					}
+				}
+			],
+			"sid": 175383094678394
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "6verdad",
+					"sid": 980611694427061
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 402809507071721,
+					"parameters": {
+						"layout": "ESCRITORIO FINAL"
+					}
+				}
+			],
+			"sid": 527085167289137
+		}
+	],
+	"sid": 970018353348543
+}

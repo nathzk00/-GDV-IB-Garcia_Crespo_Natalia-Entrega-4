@@ -1,0 +1,90 @@
+{
+	"name": "HEPROCESADOR",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "4falso1",
+					"sid": 735208959424150
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 152215868495919,
+					"parameters": {
+						"layout": "FALSO4"
+					}
+				}
+			],
+			"sid": 540917189447109
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "4falso2",
+					"sid": 266703069313634
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 470287430917092,
+					"parameters": {
+						"layout": "FALSO4"
+					}
+				}
+			],
+			"sid": 149388107673667
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "4falso3",
+					"sid": 487293462126671
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 191026593960034,
+					"parameters": {
+						"layout": "FALSO4"
+					}
+				}
+			],
+			"sid": 724757397958550
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "4verdad",
+					"sid": 634146643458228
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 727697392006174,
+					"parameters": {
+						"layout": "ESCRITORIO5"
+					}
+				}
+			],
+			"sid": 828412416919641
+		}
+	],
+	"sid": 810028913431697
+}

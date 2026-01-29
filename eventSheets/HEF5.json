@@ -1,0 +1,27 @@
+{
+	"name": "HEF5",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "VOLVER5",
+					"sid": 193310188779430
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 388590494160321,
+					"parameters": {
+						"layout": "GRÁFICA"
+					}
+				}
+			],
+			"sid": 599208110229899
+		}
+	],
+	"sid": 970383873238921
+}

@@ -1,0 +1,27 @@
+{
+	"name": "HEF6",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "VOLVER6",
+					"sid": 523598326753426
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 334278202344846,
+					"parameters": {
+						"layout": "DISIPADOR"
+					}
+				}
+			],
+			"sid": 949405531590829
+		}
+	],
+	"sid": 257828812971645
+}

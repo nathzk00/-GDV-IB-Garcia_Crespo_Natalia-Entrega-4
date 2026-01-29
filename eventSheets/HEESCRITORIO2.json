@@ -1,0 +1,30 @@
+{
+	"name": "HEESCRITORIO2",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "perrito",
+					"sid": 663836881482144,
+					"parameters": {
+						"object": "azul2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 808483659524562,
+					"parameters": {
+						"layout": "FUENTE DE ALIMENTACIÓN"
+					}
+				}
+			],
+			"sid": 132488194929025
+		}
+	],
+	"sid": 753527155491486
+}

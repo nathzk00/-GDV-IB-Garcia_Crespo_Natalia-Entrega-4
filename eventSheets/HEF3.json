@@ -1,0 +1,27 @@
+{
+	"name": "HEF3",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "VOLVER3",
+					"sid": 429027826233763
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 219883467828664,
+					"parameters": {
+						"layout": "RAM"
+					}
+				}
+			],
+			"sid": 891940733415170
+		}
+	],
+	"sid": 904918345894523
+}

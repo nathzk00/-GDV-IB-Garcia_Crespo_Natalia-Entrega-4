@@ -1,0 +1,27 @@
+{
+	"name": "HEF4",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "VOLVER4",
+					"sid": 352419375749759
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 303685372188111,
+					"parameters": {
+						"layout": "PROCESADOR"
+					}
+				}
+			],
+			"sid": 265228041699317
+		}
+	],
+	"sid": 989106840207675
+}

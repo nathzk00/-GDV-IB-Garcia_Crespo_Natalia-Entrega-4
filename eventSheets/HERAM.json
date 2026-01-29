@@ -1,0 +1,90 @@
+{
+	"name": "HERAM",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "3FALSO1",
+					"sid": 859265163255388
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 276435190530697,
+					"parameters": {
+						"layout": "FALSO3"
+					}
+				}
+			],
+			"sid": 683246000562990
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "3FALSO2",
+					"sid": 520956859492272
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 994657988738755,
+					"parameters": {
+						"layout": "FALSO3"
+					}
+				}
+			],
+			"sid": 288502765929750
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "3FALSO3",
+					"sid": 361209968233473
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 871813375981123,
+					"parameters": {
+						"layout": "FALSO3"
+					}
+				}
+			],
+			"sid": 191401874530774
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "3VERDAD",
+					"sid": 881842561891025
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 823360970774245,
+					"parameters": {
+						"layout": "ESCRITORIO4"
+					}
+				}
+			],
+			"sid": 207647083126265
+		}
+	],
+	"sid": 397485833467928
+}

@@ -1,0 +1,90 @@
+{
+	"name": "HEPLACA BASE",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "1falso1",
+					"sid": 464296492188567
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 560721650655626,
+					"parameters": {
+						"layout": "FALSO1"
+					}
+				}
+			],
+			"sid": 542112022772202
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "1falso2",
+					"sid": 347072202127015
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 215153584017474,
+					"parameters": {
+						"layout": "FALSO1"
+					}
+				}
+			],
+			"sid": 291990385142909
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "1falso3",
+					"sid": 245738895222241
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 145785489522752,
+					"parameters": {
+						"layout": "FALSO1"
+					}
+				}
+			],
+			"sid": 554242410768170
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "1verdad",
+					"sid": 406019293177195
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 516947438899943,
+					"parameters": {
+						"layout": "ESCRITORIO2"
+					}
+				}
+			],
+			"sid": 351692151488159
+		}
+	],
+	"sid": 196187744310191
+}

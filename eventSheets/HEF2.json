@@ -1,0 +1,27 @@
+{
+	"name": "HEF2",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "VOLVER2",
+					"sid": 637000943834375
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 662493092585032,
+					"parameters": {
+						"layout": "FUENTE DE ALIMENTACIÓN"
+					}
+				}
+			],
+			"sid": 932407046933171
+		}
+	],
+	"sid": 383004153554469
+}

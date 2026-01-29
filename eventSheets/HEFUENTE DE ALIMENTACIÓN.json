@@ -1,0 +1,90 @@
+{
+	"name": "HEFUENTE DE ALIMENTACIÓN",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "2FALSO1",
+					"sid": 896563650876947
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 806957528163178,
+					"parameters": {
+						"layout": "FALSO2"
+					}
+				}
+			],
+			"sid": 586467849875371
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "2FALSO2",
+					"sid": 502157348057306
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 561343130677810,
+					"parameters": {
+						"layout": "FALSO2"
+					}
+				}
+			],
+			"sid": 387329014504141
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "2FALSO3",
+					"sid": 129258832227426
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 722927364019180,
+					"parameters": {
+						"layout": "FALSO2"
+					}
+				}
+			],
+			"sid": 329860716011630
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "2VERDAD",
+					"sid": 796899323978239
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 219795718599710,
+					"parameters": {
+						"layout": "ESCRITORIO3"
+					}
+				}
+			],
+			"sid": 530121092691212
+		}
+	],
+	"sid": 984134962526120
+}

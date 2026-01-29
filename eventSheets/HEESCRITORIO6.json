@@ -1,0 +1,30 @@
+{
+	"name": "HEESCRITORIO6",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "perrito",
+					"sid": 693696392641813,
+					"parameters": {
+						"object": "azul6"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 620869521650614,
+					"parameters": {
+						"layout": "DISIPADOR"
+					}
+				}
+			],
+			"sid": 298619700802928
+		}
+	],
+	"sid": 199801356734454
+}

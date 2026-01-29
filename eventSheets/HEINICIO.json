@@ -1,0 +1,27 @@
+{
+	"name": "HEINICIO",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "INICIO",
+					"sid": 815791222191140
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 816174793819305,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 875310598108940
+		}
+	],
+	"sid": 556508204655109
+}

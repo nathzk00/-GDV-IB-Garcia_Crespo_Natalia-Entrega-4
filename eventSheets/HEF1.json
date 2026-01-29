@@ -1,0 +1,27 @@
+{
+	"name": "HEF1",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "VOLVER1",
+					"sid": 429280247480233
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 463225150770210,
+					"parameters": {
+						"layout": "PLACA BASE"
+					}
+				}
+			],
+			"sid": 615709520268722
+		}
+	],
+	"sid": 493776248971402
+}

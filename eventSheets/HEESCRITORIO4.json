@@ -1,0 +1,30 @@
+{
+	"name": "HEESCRITORIO4",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "perrito",
+					"sid": 422981203464124,
+					"parameters": {
+						"object": "azul4"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 153766135529167,
+					"parameters": {
+						"layout": "PROCESADOR"
+					}
+				}
+			],
+			"sid": 613637759711729
+		}
+	],
+	"sid": 990686439849507
+}
