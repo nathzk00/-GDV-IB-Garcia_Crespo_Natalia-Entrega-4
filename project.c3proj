@@ -1,0 +1,389 @@
+{
+	"projectFormatVersion": 1,
+	"savedWithRelease": 46602,
+	"name": "Juego informática",
+	"runtime": "c3",
+	"useWorker": "auto",
+	"bundleAddons": false,
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Button",
+			"name": "Botón",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Keyboard",
+			"name": "Teclado",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Texto",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TiledBg",
+			"name": "Fondo en mosaico",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Platform",
+			"name": "Plataforma",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Rotate",
+			"name": "Girar",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "destroy",
+			"name": "Destruir fuera de la escena",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "scrollto",
+			"name": "Desplazar hasta",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Sólido",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "effect",
+			"id": "noise",
+			"name": "Ruido",
+			"author": "Scirra",
+			"bundled": false
+		}
+	],
+	"uniqueId": "bnz90ezoj9u",
+	"objectTypes": {
+		"items": [
+			"FONDOINICIO",
+			"TITULOINICIO",
+			"INICIO",
+			"NOMBREINICIO",
+			"Preview",
+			"Sample",
+			"Sprite",
+			"azul1",
+			"amarilla0",
+			"perrito",
+			"amarilla1",
+			"amarilla2",
+			"azul2",
+			"Teclado",
+			"azul3",
+			"azul5",
+			"azul6",
+			"azul4",
+			"floorHalf_N",
+			"platformIndustrial_013",
+			"Sprite4",
+			"platformIndustrial_14",
+			"platformIndustrial_15",
+			"platformIndustrial_16",
+			"amarilla3",
+			"amarilla4",
+			"Sprite6",
+			"Sprite2",
+			"Texto",
+			"Texto2",
+			"1falso1",
+			"1verdad",
+			"1falso3",
+			"1falso2",
+			"Sprite3",
+			"Texto3",
+			"VOLVER1",
+			"2FALSO1",
+			"2FALSO2",
+			"2FALSO3",
+			"2VERDAD",
+			"VOLVER2",
+			"3FALSO1",
+			"3VERDAD",
+			"3FALSO3",
+			"3FALSO2",
+			"VOLVER3",
+			"4falso1",
+			"4verdad",
+			"4falso2",
+			"4falso3",
+			"VOLVER4",
+			"5verdad",
+			"5falso1",
+			"5falso2",
+			"5falso3",
+			"VOLVER5",
+			"6falso1",
+			"6verdad",
+			"6falso2",
+			"6falso3",
+			"VOLVER6",
+			"Sprite7",
+			"FondoEnMosaico",
+			"FondoEnMosaico2",
+			"FondoEnMosaico3",
+			"FondoEnMosaico4",
+			"FondoEnMosaico5",
+			"FondoEnMosaico6",
+			"FondoEnMosaico7",
+			"Texto4",
+			"Texto5",
+			"FondoEnMosaico8",
+			"Sprite5",
+			"Sprite8",
+			"Sprite9",
+			"Texto6"
+		],
+		"subfolders": []
+	},
+	"functionsName": "Funciones",
+	"autosaveData": null,
+	"containers": [],
+	"families": {
+		"items": [],
+		"subfolders": []
+	},
+	"layouts": {
+		"items": [
+			"INICIO",
+			"ESCRITORIO",
+			"ESCRITORIO2",
+			"ESCRITORIO3",
+			"ESCRITORIO4",
+			"ESCRITORIO5",
+			"ESCRITORIO6",
+			"PLACA BASE",
+			"FUENTE DE ALIMENTACIÓN",
+			"RAM",
+			"DISIPADOR",
+			"PROCESADOR",
+			"GRÁFICA",
+			"FALSO1",
+			"FALSO2",
+			"FALSO3",
+			"FALSO4",
+			"FALSO5",
+			"FALSO6",
+			"ESCRITORIO FINAL"
+		],
+		"subfolders": []
+	},
+	"eventSheets": {
+		"items": [
+			"HEINICIO",
+			"HEESCRITORIO",
+			"HEPLACA BASE",
+			"HEFUENTE DE ALIMENTACIÓN",
+			"HERAM",
+			"HEDISIPADOR",
+			"HEPROCESADOR",
+			"HEGRÁFICA",
+			"HEF1",
+			"HEESCRITORIO2",
+			"HEESCRITORIO3",
+			"HEESCRITORIO5",
+			"HEESCRITORIO6",
+			"HEESCRITORIO4",
+			"HEF3",
+			"HEF2",
+			"HEF4",
+			"HEF5",
+			"HEF6",
+			"Hoja de eventos 1",
+			"HEEF"
+		],
+		"subfolders": []
+	},
+	"rootFileFolders": {
+		"script": {
+			"items": [],
+			"subfolders": []
+		},
+		"sound": {
+			"items": [],
+			"subfolders": []
+		},
+		"music": {
+			"items": [],
+			"subfolders": []
+		},
+		"video": {
+			"items": [],
+			"subfolders": []
+		},
+		"font": {
+			"items": [],
+			"subfolders": []
+		},
+		"icon": {
+			"items": [
+				{
+					"name": "icono-16.png",
+					"type": "image/png",
+					"sid": 150826920682603,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-32.png",
+					"type": "image/png",
+					"sid": 592658412076593,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-64.png",
+					"type": "image/png",
+					"sid": 927710999824340,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-128.png",
+					"type": "image/png",
+					"sid": 947368896334218,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-256.png",
+					"type": "image/png",
+					"sid": 140839069056488,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-512.png",
+					"type": "image/png",
+					"sid": 153908595010778,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "logo-carga.png",
+					"type": "image/png",
+					"sid": 624660559623873,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"general": {
+			"items": [],
+			"subfolders": []
+		}
+	},
+	"timelines": {
+		"items": [
+			"Línea de tiempo 1"
+		],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": []
+			}
+		]
+	},
+	"flowcharts": {
+		"items": [
+			"Diagrama de flujo 1"
+		],
+		"subfolders": []
+	},
+	"properties": {
+		"description": "",
+		"version": "1.0.0.0",
+		"autoIncrementVersion": false,
+		"author": "",
+		"authorEmail": "",
+		"authorWebsite": "",
+		"appId": "",
+		"pixelRounding": false,
+		"zAxisScale": "regular",
+		"fov": 0.7853981633974483,
+		"useLoaderLayout": false,
+		"fullscreenMode": "letterbox-scale",
+		"fullscreenQuality": "high",
+		"viewportFit": "auto",
+		"backgroundColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"splashColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"useThemeColor": false,
+		"themeColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"orientations": "landscape",
+		"webgpu": "auto",
+		"multitexturing": "auto",
+		"gpuPreference": "high-performance",
+		"framerateMode": "vsync",
+		"sampling": "trilinear",
+		"downscaling": "medium",
+		"renderingMode": "auto",
+		"anisotropicFiltering": "auto",
+		"zNear": 1,
+		"zFar": 10000,
+		"maxSpriteSheetSize": 2048,
+		"loaderStyle": "splash",
+		"preloadSounds": true,
+		"uidAllocationMode": "increment",
+		"cordovaiOSScheme": "app",
+		"cordovaAndroidScheme": "https",
+		"exportFileStructure": "folders",
+		"scriptsType": "module"
+	},
+	"viewportWidth": 854,
+	"viewportHeight": 480,
+	"firstLayout": null
+}
